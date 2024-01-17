@@ -1,1 +1,1 @@
-All the design files for new and updated parts.
+The second version of cases for ADALM-PLUTO and Red Pitayas.
