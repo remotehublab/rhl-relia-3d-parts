@@ -1,7 +1,7 @@
 ## The third version of cases for ADALM-PLUTO and Red Pitayas
 Both are designed using Fusion 360. Both binary and ASCII .stl files are provided, along with the full .f3d project.
 
-### ADALM-PLUTO Case
+### ADALM-PLUTO Case V3
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Pluto_Case_V3.10_ascii.stl)
 
 [Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Pluto_Case_V3.10_binary.stl)
@@ -18,7 +18,7 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 - Walls Count: 3
 - Infill Density: >=15%
 
-### Red Pitaya Case
+### Red Pitaya Case V3
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4_ascii.stl)
 
 [Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4_binary.stl)
@@ -39,15 +39,15 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 - Infill Density: >=15%
 
 ### Name Tag
-#### Tag Holder: can be mounted to LabsLand Prism4 plates and holds customizable tags
+#### Tag Holder V3: can be mounted to LabsLand Prism4 plates and holds customizable tags
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_Holder_V3.4_ascii.stl)
 
 [Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_Holder_V3.4_binary.stl)
-#### Tag RHL RELIA: name tag with RHL RELIA
+#### Tag RHL RELIA V3: name tag with RHL RELIA
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_RELIA_V3.4_ascii.stl)
 
 [Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_RELIA_V3.4_binary.stl)
-#### Tag RHL LabsLand: name tag with RHL and LabsLand
+#### Tag RHL LabsLand V3: name tag with RHL and LabsLand
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V3.4_ascii.stl)
 
 [Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V3.4_binary.stl)
