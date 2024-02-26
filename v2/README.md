@@ -3,6 +3,7 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 
 ### ADALM-PLUTO Case V2 Lite
 [Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v2/Pluto_Case_V2.8_lite_binary.stl)
+
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v2/Pluto_Case_V2.8_lite_ascii.stl)
 #### New Features
 - The footprint of the case is decreased to save filament and print time. It is ideal for initial testing.
@@ -22,7 +23,8 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 - Infill Density: >=15%
 
 ### Red Pitaya Case V2
-[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v2/Red_Pitaya_Case_V2.5_lite_binary.stl) \n
+[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v2/Red_Pitaya_Case_V2.5_lite_binary.stl)
+
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v2/Red_Pitaya_Case_V2.5_ascii.stl)
 #### New Features
 - Red Pitayas are kept in a place in the case because of 4 side walls.
