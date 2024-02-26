@@ -6,7 +6,7 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 - The footprint of the case is increased for a fuller look under the camera.
 - Various openings on the bottom of the case reduce filament usage and save print time.
 - 4-side walls keep ADALM-PLUTOs in place. 1 mm of clearance is included to compensate for round corners or bulging corners due to 3D printer hotend overshooting during high-speed printing.
-### Printing Setting
+##### Printing Setting
 - Printer Build Volume: 300x300x100 or greater
 - Printing Temperature: 215 Celcius (PLA)
 - Heat Bed Temperature: 60 Celcius (PLA)
@@ -23,7 +23,7 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 - The width of cable openings is increased to match that of LabsLand Prism4 plates.
 - The number of filament-saving openings is reduced for a better look.
 - The number of mounting holes is reduced for a cleaner look.
-### Printing Setting
+#### Printing Setting
 - Printer Build Volume: 300x300x100 or greater, can be printed on some 256x256x256 printers
 - Printing Temperature: 215 Celcius (PLA)
 - Heat Bed Temperature: 60 Celcius (PLA)
