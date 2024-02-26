@@ -38,7 +38,7 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 - Walls Count: 3
 - Infill Density: >=15%
 
-### Name Tag
+### Name Tag V3
 #### Tag Holder V3: can be mounted to LabsLand Prism4 plates and holds customizable tags
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_Holder_V3.4_ascii.stl)
 
