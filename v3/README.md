@@ -2,6 +2,9 @@
 Both are designed using Fusion 360. Both binary and ASCII .stl files are provided, along with the full .f3d project.
 
 ### ADALM-PLUTO Case
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Pluto_Case_V3.10_ascii.stl)
+
+[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Pluto_Case_V3.10_binary.stl)
 #### New Features
 - The footprint of the case is increased for a fuller look under the camera.
 - Various openings on the bottom of the case reduce filament usage and save print time.
@@ -16,6 +19,9 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 - Infill Density: >=15%
 
 ### Red Pitaya Case
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4_ascii.stl)
+
+[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4_binary.stl)
 #### New Features
 - The footprint of the case is decreased for filament saving and making room for a tag holder.
 - Red Pitayas are now kept in a better position in the case. Correct clearance is placed between Red Pitayas and side walls to allow elbow Ethernet and USB cables to pass through the openings.
@@ -34,8 +40,18 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 
 ### Name Tag
 #### Tag Holder: can be mounted to LabsLand Prism4 plates and holds customizable tags
-#### Tag RHL LabsLand: name tag with RHL and LabsLand
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_Holder_V3.4_ascii.stl)
+
+[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_Holder_V3.4_binary.stl)
 #### Tag RHL RELIA: name tag with RHL RELIA
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_RELIA_V3.4_ascii.stl)
+
+[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_RELIA_V3.4_binary.stl)
+#### Tag RHL LabsLand: name tag with RHL and LabsLand
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V3.4_ascii.stl)
+
+[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V3.4_binary.stl)
+
 #### Printing Setting
 - Printer Build Volume: 300x100x10 or greater
 - Printing Temperature: 215 Celcius (PLA)
