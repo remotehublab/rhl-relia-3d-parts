@@ -31,3 +31,8 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 - Print Speed: 120 mm/s
 - Walls Count: 3
 - Infill Density: >=15%
+
+### Name Tag
+#### Tag Holder: can be mounted to LabsLand Prism4 plates and holds customizable tags
+#### Tag RHL LabsLand: name tag with RHL and LabsLand
+#### Tag RHL RELIA: name tag with RHL RELIA
