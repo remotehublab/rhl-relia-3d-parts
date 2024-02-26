@@ -24,7 +24,7 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 - The number of filament-saving openings is reduced for a better look.
 - The number of mounting holes is reduced for a cleaner look.
 #### Printing Setting
-- Printer Build Volume: 300x300x100 or greater, can be printed on some 256x256x256 printers
+- Printer Build Volume: 300x300x100 or greater
 - Printing Temperature: 215 Celcius (PLA)
 - Heat Bed Temperature: 60 Celcius (PLA)
 - Layer Height: 0.28 mm (0.4 mm nozzle)
@@ -36,3 +36,11 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 #### Tag Holder: can be mounted to LabsLand Prism4 plates and holds customizable tags
 #### Tag RHL LabsLand: name tag with RHL and LabsLand
 #### Tag RHL RELIA: name tag with RHL RELIA
+#### Printing Setting
+- Printer Build Volume: 300x100x10 or greater
+- Printing Temperature: 215 Celcius (PLA)
+- Heat Bed Temperature: 60 Celcius (PLA)
+- Layer Height: 0.2 mm (0.4 mm nozzle)
+- Print Speed: 80 mm/s
+- Walls Count: 3
+- Infill Density: >=15%
