@@ -13,7 +13,7 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 - TX and RX labels are moved outside of the ADALM-PLUTOs for easier maintenance.
 - TX and RX labels' word sizes are increased for better readability.
 
-##### Printing Setting
+#### Printing Setting
 - Printer Build Volume: 300x300x100 or greater, can be printed on some 256x256x256 printers
 - Printing Temperature: 215 Celcius (PLA)
 - Heat Bed Temperature: 60 Celcius (PLA)
