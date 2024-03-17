@@ -47,10 +47,14 @@ Both are designed using Fusion 360. Both binary and ASCII .stl files are provide
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_RELIA_V3.4_ascii.stl)
 
 [Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_RELIA_V3.4_binary.stl)
-#### Tag RHL LabsLand V3: name tag with RHL and LabsLand
+#### Tag RHL LabsLand V3: name tag with RHL and LabsLand without logos
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V3.4_ascii.stl)
 
 [Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V3.4_binary.stl)
+#### Tag RHL LabsLand V4: name tag with RHL and LabsLand logos
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V4.1_ascii.stl)
+
+[Colored 3MF File)](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V4.1_ascii.3mf)
 
 #### Printing Setting
 - Printer Build Volume: 300x100x10 or greater
